@@ -9,6 +9,7 @@
 
    	|- API:
 
+                https://jaipack17.gitbook.io/raycast2/
 
 	|- Debugging and Troubleshooting:
 
