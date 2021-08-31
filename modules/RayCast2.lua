@@ -100,9 +100,9 @@
 
 -- [Additional Modules]
 
-local drawLine = require(script.Ray) 
-local Convergence = require(script.Convergence)
-local Globals = require(script.GlobalConstants)
+local drawLine = require(script.Parent.Ray) 
+local Convergence = require(script.Parent.Convergence)
+local Globals = require(script.Parent.GlobalConstants)
 
 -- [Module]
 
